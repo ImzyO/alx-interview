@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Performs log parsing from stdin"""
 
+
 import re
 import sys
 counter = 0

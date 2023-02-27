@@ -11,8 +11,7 @@ def makeChange(coins, total):
     """
 
     if total <= 0:
-        return 0 
-
+        return 0
 
     current_total = 0
     used_coin = 0
